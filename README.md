@@ -1,5 +1,5 @@
 # Deployment_with_heroku
-This is a code base for deploying API's to Heroku Infrastructure using CI/CD (Continuous Development/Deployment)
+This is a code base for deploying API's to Heroku Infrastructure using CI/CD (Continuous Integration /Continuous Deployment)
 
 1. Create the repository in github
 2. Clone the repository in local environment using github desktop
